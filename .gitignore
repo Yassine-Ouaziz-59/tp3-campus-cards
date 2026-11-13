@@ -1,8 +1,9 @@
 # Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
 
-# documents et sauvegardes non publiés
+# livrables et sauvegardes non publiés
 *.pdf
 *.bak
+capture/
 
 # dependencies
 node_modules/
